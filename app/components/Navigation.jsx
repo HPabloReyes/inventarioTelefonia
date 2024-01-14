@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Navigation() {
   return (
     <nav class="flex items-center justify-between ">
@@ -11,8 +13,10 @@ export default function Navigation() {
           />
         </search>
       </div>
-      <div className="border border-black-300 rounded-md ">
-        <p class="font-semibold mx-2">Añadir Equipo</p>
+      <div className="border border-black-300 rounded-md ml-1">
+        <Link href={"/form"}>
+          <p class="font-semibold p-1 text-center">Añadir Equipo</p>
+        </Link>
       </div>
     </nav>
   );
