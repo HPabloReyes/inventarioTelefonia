@@ -10,7 +10,7 @@ export default function Formulario() {
       />
       <Link
         href="/"
-        class="block text-center py-2 px-4 bg-blue-300 text-white font-semibold rounded-full shadow-md mt-3"
+        class="block text-center py-2 px-4 bg-blue-500 text-white font-semibold rounded-full shadow-md mt-3"
       >
         <h1 class="cursor-pointer">Seguimos en eso !</h1>
       </Link>
