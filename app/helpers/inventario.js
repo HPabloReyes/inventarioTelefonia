@@ -1,17 +1,199 @@
 export const inventario = [
   {
-    telefono: "Samsung Galaxy A04",
+    telefono: "ZTE Axon 50 Lite",
     colores: [
-      { color: "Blanco", codigo: "880609443769" },
-      { color: "Negro", codigo: "8806094437690" },
+      { color: "Morado", codigo: "690217610382" },
+      { color: "Negro", codigo: "690217610381" },
     ],
   },
   {
-    telefono: "ZTE Axon 50 Lite",
+    telefono: "TELC ZTE L9",
+    colores: [{ color: "Gris", codigo: "750622734256" }],
+  },
+  {
+    telefono: "ZTE L220",
+    colores: [{ color: "Negro", codigo: "690217609598" }],
+  },
+  {
+    telefono: "TELC ZTE L220",
+    colores: [{ color: "Negro", codigo: "7506228734961" }],
+  },
+  {
+    telefono: "Hisense V40S",
     colores: [
-      { color: "Morado", codigo: "690217610381" },
-      { color: "Negro", codigo: "6902176103810" },
+      { color: "Azul", codigo: "694178572171" },
+      { color: "Negro", codigo: "694178572217" },
     ],
+  },
+  {
+    telefono: "TELC Realme C11",
+    colores: [
+      { color: "Azul", codigo: "750622734276" },
+      { color: "Gris", codigo: "750622734277" },
+    ],
+  },
+  {
+    telefono: "Hisense E50",
+    colores: [{ color: "Verde", codigo: "694178571928" }],
+  },
+  {
+    telefono: "Moto G42",
+    colores: [{ color: "Verde", codigo: "0840023229565" }],
+  },
+  {
+    telefono: "Moto E22",
+    colores: [{ color: "Azul", codigo: "0840023240973" }],
+  },
+  {
+    telefono: "Moto Edge 40 Neo",
+    colores: [{ color: "Negro", codigo: "0840023258091" }],
+  },
+  {
+    telefono: "TELC Moto G53 5G",
+    colores: [{ color: "Plata", codigo: "750622734935" }],
+  },
+  {
+    telefono: "Moto G31",
+    colores: [{ color: "Gris", codigo: "84002322260" }],
+  },
+  {
+    telefono: "Moto G41",
+    colores: [{ color: "Dorado", codigo: "750188264093" }],
+  },
+  {
+    telefono: "ATT Moto E32",
+    colores: [{ color: "Gris", codigo: "750188264676" }],
+  },
+  {
+    telefono: "TEM Moto E20",
+    colores: [
+      { color: "Gris", codigo: "750303092646" },
+      { color: "Azul", codigo: "750303092647" },
+    ],
+  },
+  {
+    telefono: "Moto E20",
+    colores: [{ color: "Gris", codigo: "84002322556" }],
+  },
+  {
+    telefono: "TEM Moto E22",
+    colores: [{ color: "Negro", codigo: "750303092372" }],
+  },
+  {
+    telefono: "TEM Moto E32",
+    colores: [{ color: "Plata", codigo: "750303092536" }],
+  },
+  {
+    telefono: "Moto G71",
+    colores: [
+      { color: "Azul", codigo: "84002322138" },
+      { color: "Verde", codigo: "84002322137" },
+    ],
+  },
+  {
+    telefono: "Moto G72",
+    colores: [
+      { color: "Negro", codigo: "84002323549" },
+      { color: "Blanco", codigo: "84002323551" },
+    ],
+  },
+  {
+    telefono: "TELC Moto G84",
+    colores: [{ color: "Azul", codigo: "750622735182" }],
+  },
+  {
+    telefono: "Moto G82 5G",
+    colores: [
+      { color: "Blanco", codigo: "84002323025" },
+      { color: "Negro", codigo: "84002323024" },
+    ],
+  },
+  {
+    telefono: "TELC Moto G41",
+    colores: [{ color: "Negro", codigo: "750622734306" }],
+  },
+  {
+    telefono: "Moto G52",
+    colores: [
+      { color: "Negro", codigo: "84002323016" },
+      { color: "Azul", codigo: "84002323142" },
+      { color: "Blanco", codigo: "84002323017" },
+    ],
+  },
+  {
+    telefono: "ATT Moto G22",
+    colores: [
+      { color: "Azul", codigo: "750188264685" },
+      { color: "Negro", codigo: "750188264682" },
+    ],
+  },
+  {
+    telefono: "Moto G51",
+    colores: [
+      { color: "Azul", codigo: "84002322502" },
+      { color: "Dorado", codigo: "84002322505" },
+    ],
+  },
+  {
+    telefono: "Moto G23",
+    colores: [
+      { color: "Gris", codigo: "84002324008" },
+      { color: "Azul", codigo: "84002324010" },
+    ],
+  },
+  {
+    telefono: "TELC Moto G22",
+    colores: [{ color: "Azul", codigo: "750622734487" }],
+  },
+  {
+    telefono: "TELC Moto G22",
+    colores: [{ color: "Azul", codigo: "750622734487" }],
+  },
+  {
+    telefono: "Moto Edge 30 Neo",
+    colores: [
+      { color: "Negro", codigo: "84002323497" },
+      { color: "Verde", codigo: "84002323498" },
+    ],
+  },
+  {
+    telefono: "TELC Moto G60",
+    colores: [{ color: "Negro", codigo: "4318" }],
+  },
+  {
+    telefono: "TELC Moto G51 5G",
+    colores: [{ color: "Azul", codigo: "750622734308" }],
+  },
+  {
+    telefono: "Samsung A24",
+    colores: [{ color: "Negro", codigo: "880609483876" }],
+  },
+  {
+    telefono: "Samsung A04 32GB",
+    colores: [
+      { color: "Negro", codigo: "880609443769" },
+      { color: "Blanco", codigo: "880609443581" },
+      { color: "Verde", codigo: "880609462509" },
+    ],
+  },
+  {
+    telefono: "TELC Samsung A04",
+    colores: [{ color: "Negro", codigo: "750622734895" }],
+  },
+  {
+    telefono: "TELC Samsung A04E",
+    colores: [{ color: "Cobre", codigo: "750622734916" }],
+  },
+  {
+    telefono: "Samsung Galaxy A04",
+    colores: [
+      { color: "Blanco", codigo: "880609443575" },
+      { color: "Negro", codigo: "880609443644" },
+    ],
+  },
+  {
+    telefono: "Samsung A04E 64GB",
+    colores: [{ color: "Negro", codigo: "880609479740" }],
   },
 ];
 
