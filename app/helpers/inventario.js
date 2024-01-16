@@ -46,7 +46,10 @@ export const inventario = [
   },
   {
     telefono: "Moto Edge 40 Neo",
-    colores: [{ color: "Negro", codigo: "0840023258091" }],
+    colores: [
+      { color: "Negro", codigo: "0840023258091" },
+      { color: "Azul", codigo: "0840023258114" },
+    ],
   },
   {
     telefono: "TELC Moto G53 5G",
@@ -182,7 +185,10 @@ export const inventario = [
   },
   {
     telefono: "TELC Samsung A04E",
-    colores: [{ color: "Cobre", codigo: "750622734916" }],
+    colores: [
+      { color: "Cobre", codigo: "750622734916" },
+      { color: "Azul", codigo: "80609473201" },
+    ],
   },
   {
     telefono: "Samsung Galaxy A04",
@@ -194,6 +200,83 @@ export const inventario = [
   {
     telefono: "Samsung A04E 64GB",
     colores: [{ color: "Negro", codigo: "880609479740" }],
+  },
+  {
+    telefono: "Techpad X7",
+    colores: [
+      { color: "Azul", codigo: "72679825821" },
+      { color: "Verde", codigo: "72679825822" },
+      { color: "Negro", codigo: "72679825820" },
+    ],
+  },
+  {
+    telefono: "Hisense V60",
+    colores: [{ color: "Azul", codigo: "694178572245" }],
+  },
+  {
+    telefono: "Samsung A54",
+    colores: [
+      { color: "Negro", codigo: "880609483722" },
+      { color: "Blanco", codigo: "880609483803" },
+    ],
+  },
+  {
+    telefono: "TELC Samsung A34 128GB",
+    colores: [{ color: "Negro", codigo: "750622735024" }],
+  },
+  {
+    telefono: "Samsung A34",
+    colores: [
+      { color: "Violeta", codigo: "880609496714" },
+      { color: "Negro", codigo: "880609494452" },
+      { color: "Plata", codigo: "880609494443" },
+    ],
+  },
+  {
+    telefono: "Samsung A33 5G",
+    colores: [{ color: "Negro", codigo: "880609429751" }],
+  },
+  {
+    telefono: "Honor X7A",
+    colores: [{ color: "Plata", codigo: "693652081873" }],
+  },
+  {
+    telefono: "Honor X8",
+    colores: [{ color: "Azul", codigo: "693652080598" }],
+  },
+  {
+    telefono: "Redmi 12",
+    colores: [
+      { color: "Plata", codigo: "694181273928" },
+      { color: "Negro", codigo: "694181273956" },
+    ],
+  },
+  {
+    telefono: "Xiaomi Redmi 11S",
+    colores: [
+      { color: "Azul", codigo: "693417776931" },
+      { color: "Gray", codigo: "693417776918" },
+    ],
+  },
+  {
+    telefono: "Xiamo Redmi Note11",
+    colores: [{ color: "Azul", codigo: "693417776837" }],
+  },
+  {
+    telefono: "TELC Xiaomi Redmi Note11",
+    colores: [{ color: "Gris", codigo: "750622734567" }],
+  },
+  {
+    telefono: "Xiaomi Redmi 9A",
+    colores: [{ color: "Azul", codigo: "693417776010" }],
+  },
+  {
+    telefono: "Redmi A2 64GB",
+    colores: [{ color: "Azul", codigo: "694181274846" }],
+  },
+  {
+    telefono: "Redmi Note 12S",
+    colores: [{ color: "Blue", codigo: "94181272879" }],
   },
 ];
 
