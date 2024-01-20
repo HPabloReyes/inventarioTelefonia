@@ -259,11 +259,11 @@ export const inventario = [
     ],
   },
   {
-    telefono: "Xiamo Redmi Note11",
+    telefono: "Xiaomi Redmi Note 11",
     colores: [{ color: "Azul", codigo: "693417776837" }],
   },
   {
-    telefono: "TELC Xiaomi Redmi Note11",
+    telefono: "TELC Xiaomi Redmi Note 11",
     colores: [{ color: "Gris", codigo: "750622734567" }],
   },
   {
@@ -277,6 +277,65 @@ export const inventario = [
   {
     telefono: "Redmi Note 12S",
     colores: [{ color: "Blue", codigo: "94181272879" }],
+  },
+  {
+    telefono: "ATT Xiaomi Redmi 9A",
+    colores: [{ color: "Gris", codigo: "7501882631854" }],
+    colores: [{ color: "Azul", codigo: "7501882631861" }],
+  },
+
+  {
+    telefono: "ATT Xiaomi A2 64GB",
+    colores: [{ color: "?", codigo: "7501882657731" }],
+  },
+  {
+    telefono: "ATT Xiaomi 12C",
+    colores: [{ color: "Azul", codigo: "7501882654792" }],
+  },
+  {
+    telefono: "ATT Xiaomi Note 11S",
+    colores: [{ color: "?", codigo: "7501882646315" }],
+    colores: [{ color: "?", codigo: "7501882646285" }],
+  },
+  {
+    telefono: "ATT Xiaomi Note 11",
+    colores: [{ color: "?", codigo: "7501882646223" }],
+    colores: [{ color: "?", codigo: "7501882646193" }],
+    colores: [{ color: "?", codigo: "7501882646254" }],
+  },
+  {
+    telefono: "ATT Xiaomi Note 10S",
+    colores: [{ color: "?", codigo: "7501882638761" }],
+  },
+  {
+    telefono: "ATT Oppo A16",
+    colores: [{ color: "?", codigo: "7501882639218" }],
+    colores: [{ color: "?", codigo: "7501882639188" }],
+  },
+  {
+    telefono: "ATT Xiaomi Note 12",
+    colores: [{ color: "Gris", codigo: "7501882654877" }],
+    colores: [{ color: "Azul", codigo: "7501882654914" }],
+  },
+  {
+    telefono: "ATT Oppo Reno07",
+    colores: [{ color: "Negro", codigo: "7501882647947" }],
+    colores: [{ color: "Azul", codigo: "7501882647916" }],
+  },
+  {
+    telefono: "ATT Oppo A54",
+    colores: [{ color: "Negro", codigo: "7501882637078" }],
+    colores: [{ color: "Azul", codigo: "7501882637092" }],
+  },
+  {
+    telefono: "ATT Oppo A57",
+    colores: [{ color: "Negro", codigo: "7501882649781" }],
+    colores: [{ color: "Verde", codigo: "7501882649804" }],
+  },
+  {
+    telefono: "ATT Oppo A77",
+    colores: [{ color: "Azul", codigo: "7501882649842" }],
+    colores: [{ color: "Negro", codigo: "7501882649828" }],
   },
 ];
 
