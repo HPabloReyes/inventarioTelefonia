@@ -8,7 +8,10 @@ export const inventario = [
   },
   {
     telefono: "TELC ZTE L9",
-    colores: [{ color: "Gris", codigo: "750622734256" }],
+    colores: [
+      { color: "Gris", codigo: "750622734256" },
+      { color: "Azul", codigo: "750622732556" },
+    ],
   },
   {
     telefono: "ZTE L220",
@@ -16,7 +19,10 @@ export const inventario = [
   },
   {
     telefono: "TELC ZTE L220",
-    colores: [{ color: "Negro", codigo: "7506228734961" }],
+    colores: [
+      { color: "Negro", codigo: "7506228734961" },
+      { color: "Azul", codigo: "7506227349609" },
+    ],
   },
   {
     telefono: "Hisense V40S",
@@ -181,13 +187,18 @@ export const inventario = [
   },
   {
     telefono: "TELC Samsung A04",
-    colores: [{ color: "Negro", codigo: "750622734895" }],
+    colores: [
+      { color: "Negro", codigo: "750622734895" },
+      { color: "?", codigo: "7506227348961" },
+      { color: "?", codigo: "7506227348978" },
+    ],
   },
   {
     telefono: "TELC Samsung A04E",
     colores: [
       { color: "Cobre", codigo: "750622734916" },
-      { color: "Azul", codigo: "80609473201" },
+      { color: "Azul", codigo: "7506227349159" },
+      { color: "Negro", codigo: "7506227349173" },
     ],
   },
   {
@@ -280,8 +291,10 @@ export const inventario = [
   },
   {
     telefono: "ATT Xiaomi Redmi 9A",
-    colores: [{ color: "Gris", codigo: "7501882631854" }],
-    colores: [{ color: "Azul", codigo: "7501882631861" }],
+    colores: [
+      { color: "Gris", codigo: "7501882631854" },
+      { color: "Azul", codigo: "7501882631861" },
+    ],
   },
 
   {
@@ -294,14 +307,18 @@ export const inventario = [
   },
   {
     telefono: "ATT Xiaomi Note 11S",
-    colores: [{ color: "?", codigo: "7501882646315" }],
-    colores: [{ color: "?", codigo: "7501882646285" }],
+    colores: [
+      { color: "?", codigo: "7501882646315" },
+      { color: "?", codigo: "7501882646285" },
+    ],
   },
   {
     telefono: "ATT Xiaomi Note 11",
-    colores: [{ color: "?", codigo: "7501882646223" }],
-    colores: [{ color: "?", codigo: "7501882646193" }],
-    colores: [{ color: "?", codigo: "7501882646254" }],
+    colores: [
+      { color: "?", codigo: "7501882646223" },
+      { color: "?", codigo: "7501882646193" },
+      { color: "?", codigo: "7501882646254" },
+    ],
   },
   {
     telefono: "ATT Xiaomi Note 10S",
@@ -309,23 +326,31 @@ export const inventario = [
   },
   {
     telefono: "ATT Oppo A16",
-    colores: [{ color: "?", codigo: "7501882639218" }],
-    colores: [{ color: "?", codigo: "7501882639188" }],
+    colores: [
+      { color: "?", codigo: "7501882639218" },
+      { color: "?", codigo: "7501882639188" },
+    ],
   },
   {
     telefono: "ATT Xiaomi Note 12",
-    colores: [{ color: "Gris", codigo: "7501882654877" }],
-    colores: [{ color: "Azul", codigo: "7501882654914" }],
+    colores: [
+      { color: "Gris", codigo: "7501882654877" },
+      { color: "Azul", codigo: "7501882654914" },
+    ],
   },
   {
     telefono: "ATT Oppo Reno07",
-    colores: [{ color: "Negro", codigo: "7501882647947" }],
-    colores: [{ color: "Azul", codigo: "7501882647916" }],
+    colores: [
+      { color: "Negro", codigo: "7501882647947" },
+      { color: "Azul", codigo: "7501882647916" },
+    ],
   },
   {
     telefono: "ATT Oppo A54",
-    colores: [{ color: "Negro", codigo: "7501882637078" }],
-    colores: [{ color: "Azul", codigo: "7501882637092" }],
+    colores: [
+      { color: "Negro", codigo: "7501882637078" },
+      { color: "Azul", codigo: "7501882637092" },
+    ],
   },
   {
     telefono: "ATT Oppo A57",
@@ -334,8 +359,166 @@ export const inventario = [
   },
   {
     telefono: "ATT Oppo A77",
-    colores: [{ color: "Azul", codigo: "7501882649842" }],
-    colores: [{ color: "Negro", codigo: "7501882649828" }],
+    colores: [
+      { color: "Azul", codigo: "7501882649842" },
+      { color: "Negro", codigo: "7501882649828" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE V40 Vita",
+    colores: [
+      { color: "?", codigo: "750062273345892" },
+      { color: "?", codigo: "750062273345885" },
+      { color: "?", codigo: "750062273345908" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE V40 Smart",
+    colores: [
+      { color: "?", codigo: "7506227345991" },
+      { color: "?", codigo: "7506227346011" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE A33s 32GB",
+    colores: [
+      { color: "Verde", codigo: "7506227351329" },
+      { color: "Azul", codigo: "7506227351312" },
+      { color: "Negro", codigo: "7506227351336" },
+    ],
+  },
+  {
+    telefono: "TELC Samsung A54 5G 256GB",
+    colores: [
+      { color: "Plata", codigo: "7506227350209" },
+      { color: "Negro", codigo: "7506227350186" },
+      { color: "Violeta", codigo: "7506227350162" },
+      { color: "Verde", codigo: "7506227350148" },
+    ],
+  },
+  {
+    telefono: "TELC Samsung A14 5G",
+    colores: [
+      { color: "Plata", codigo: "7506227349654" },
+      { color: "Verde", codigo: "7506227349630" },
+    ],
+  },
+  {
+    telefono: "TELC Samsung A14 4G",
+    colores: [
+      { color: "Verde", codigo: "7506227349661" },
+      { color: "Negro", codigo: "7506227349678" },
+    ],
+  },
+  {
+    telefono: "TELC Samsung A54 5G 128GB",
+    colores: [
+      { color: "Plata", codigo: "7506227350216" },
+      { color: "Negro", codigo: "7506227350193" },
+      { color: "Verde", codigo: "7506227350155" },
+      { color: "Violeta", codigo: "7506227350179" },
+    ],
+  },
+  {
+    telefono: "TELC Iphone 128GB",
+    colores: [
+      { color: "Negro", codigo: "7506227335336" },
+      { color: "Azul", codigo: "7506227339037" },
+    ],
+  },
+  {
+    telefono: "TELC Xiaomi 9C",
+    colores: [
+      { color: "Gris", codigo: "7506227339013" },
+      { color: "Naranja", codigo: "7506227339020" },
+    ],
+  },
+  {
+    telefono: "TELC Vivo Y20",
+    colores: [
+      { color: "Negro", codigo: "7506227341474" },
+      { color: "Azul", codigo: "7506227341481" },
+    ],
+  },
+  {
+    telefono: "TELC Honor X7A",
+    colores: [
+      { color: "Plata", codigo: "7506227349715" },
+      { color: "Negro", codigo: "7506227349692" },
+    ],
+  },
+  {
+    telefono: "TELC TCL 10SE 128GB",
+    colores: [{ color: "?", codigo: "7506227338269" }],
+  },
+  {
+    telefono: "TELC Oppo Reno6 Lite",
+    colores: [{ color: "Negro", codigo: "7506227344024" }],
+  },
+  {
+    telefono: "TELC ZTE A5 R 64GB",
+    colores: [
+      { color: "Verde", codigo: "7506227341887" },
+      { color: "Azul", codigo: "7506227341870" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE A71",
+    colores: [
+      { color: "Gris", codigo: "7506227340903" },
+      { color: "Verde", codigo: "7506227340910" },
+      { color: "Azul", codigo: "7506227340897" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE A51 64GB",
+    colores: [
+      { color: "Gris", codigo: "7506227340392" },
+      { color: "Azul", codigo: "7506227340385" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE A3 2020",
+    colores: [
+      { color: "Gris", codigo: "7506227336791" },
+      { color: "Rojo", codigo: "7506227336784" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE Axon 40Lite",
+    colores: [
+      { color: "Negro", codigo: "7506227349395" },
+      { color: "Azul", codigo: "7506227349398" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE A5 2020 64GB",
+    colores: [
+      { color: "Azul", codigo: "7506227338887" },
+      { color: "Verde", codigo: "7506227338894" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE L210",
+    colores: [
+      { color: "Negro", codigo: "7506227338191" },
+      { color: "Azul", codigo: "7506227338184" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE A53",
+    colores: [
+      { color: "Verde", codigo: "7506227349593" },
+      { color: "Gris", codigo: "7506227349586" },
+      { color: "Azul", codigo: "7506227349579" },
+    ],
+  },
+  {
+    telefono: "TELC ZTE V41 Smart 64GB",
+    colores: [
+      { color: "Azul", codigo: "7506227350483" },
+      { color: "Gris", codigo: "7506227350490" },
+    ],
   },
 ];
 
